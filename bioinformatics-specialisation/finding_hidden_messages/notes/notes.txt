@@ -1,0 +1,25 @@
+DNA pairs are always matched in a specific order:
+A -> T
+C -> G
+T -> A
+G -> C
+
+Each parent strand acts as a template for the synthesis of a new strand.
+c1   c2
+A -> T
+C -> G
+T -> A
+G -> C
+If you remove bases from the new strand (c2) such as T, G, A, or C, the corresponding bases (A, C, T, or G from c1) will dictate the synthesis of the missing bases to recreate the original sequence.
+
+Origin of replication (ori) = Refers to a specific sequence in the genome of an organism where DNA replication begins. It is a crucial region in the DNA that signals the replication machinery to start copying the DNA molecule
+
+dnaA = A key protein involved in the initiation of DNA replication in bacteria
+dnaA Box = Specific DNA sequence that DnaA proteins recognize and bind to
+
+k-mer = Count(Text, Pattern)
+Count(ACA 'ACTAT' GCAT 'ACTAT' CGGGA 'ACTAT' CCT 'ACTAT') = 3
+
+9-mer = A sequence of nine nucleotides (bases) in a DNA or RNA molecule. The term "mer" refers to the length of a sequence of nucleotides, so a 9-mer specifically means a segment that is nine nucleotides long.
+
+We defined a k-mer as a "clump" if it appears many times within a short interval of the genome.

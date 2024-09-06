@@ -18,7 +18,7 @@ dnaA = A key protein involved in the initiation of DNA replication in bacteria
 dnaA Box = Specific DNA sequence that DnaA proteins recognize and bind to
 
 k-mer = Count(Text, Pattern)
-Count(ACA 'ACTAT' GCAT 'ACTAT' CGGGA 'ACTAT' CCT 'ACTAT') = 3
+Count(ACA 'ACTAT' GCAT 'ACTAT' CGGGA 'ACTAT' CCT, ACTAT) = 3
 
 9-mer = A sequence of nine nucleotides (bases) in a DNA or RNA molecule. The term "mer" refers to the length of a sequence of nucleotides, so a 9-mer specifically means a segment that is nine nucleotides long.
 

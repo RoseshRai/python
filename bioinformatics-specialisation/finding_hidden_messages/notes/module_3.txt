@@ -1,0 +1,11 @@
+How do individual cells in animals and plants, let alone bacteria, know when they should slow down or increase the production of certain proteins?
+Cells regulate the production of proteins primarily at the gene level. The first step in protein synthesis is the transcription of DNA into mRNA, and this process can be tightly controlled.
+After mRNA is transcribed, cells can regulate its translation into proteins
+Once mRNA is ready for translation, the cell can regulate how much of the protein is made
+Even after proteins are made, cells can control their activity and abundance
+Cells use feedback mechanisms to adjust protein production based on current needs.
+Cells constantly monitor their environment for signals that can trigger changes in protein production
+
+
+
+

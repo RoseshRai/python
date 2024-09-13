@@ -1,8 +1,0 @@
-repos:
-  - repo: local
-    hooks:
-      - id: pre-commit-checker
-        name: Run pre-commit-checker
-        entry: ./pre-commit-checker.sh
-        language: script
-        files: .*

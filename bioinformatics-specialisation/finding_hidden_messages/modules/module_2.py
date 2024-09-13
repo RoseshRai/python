@@ -113,7 +113,7 @@ class Tasks:
                 return count
     """
 
-    def approximate_pattern_count(self, text: str, pattern: str, d: int):
+    def approximate_pattern_count(self, text: str, pattern: str, d: int) -> int:
         count: int = 0
         pattern_length: int = len(pattern)
 

@@ -1,0 +1,24 @@
+DNA strands have directions!
+
+DNA polymerases are unidirectional: They can only traverse a parent strand in the opposite direction
+If you were a DNA Polymerase, how would you replicate a genome?
+Wait until the fork opens and replicate...
+
+Single stranded DNA has a much higher mutation rate than double-stranded DNA
+
+DAN replication
+Unwinding the DNA: To replicate, the DNA "ladder" first has to untwist and unzip down the middle, like unzipping a zipper. An enzyme called helicase helps to break the bonds between the base pairs, splitting the two strands apart.
+
+Copying in Different Directions:
+DNA strands run in opposite directions. One is called the leading strand, and the other is the lagging strand.
+The leading strand gets copied continuously because DNA polymerase can add new bases in the same direction as the DNA is being unzipped.
+The lagging strand runs in the opposite direction, so it can't be copied continuously. Instead, it is copied in small segments called Okazaki fragments.
+RNA Primer: DNA polymerase (the enzyme that adds new DNA bases) can't start on its own. It needs a small starting point called an RNA primer, which is made by the enzyme primase. The RNA primer gives the DNA polymerase a place to begin.
+
+Adding New Bases: On the leading strand, DNA polymerase adds new bases continuously, matching A with T and C with G. On the lagging strand, DNA polymerase works in short bursts, making Okazaki fragments between RNA primers.
+
+Joining Okazaki Fragments: Once all the fragments on the lagging strand are made, another enzyme, called DNA ligase, comes in and "glues" the Okazaki fragments together to form a continuous strand.
+
+Two Identical DNA Molecules: After copying is finished, two identical DNA molecules are formed. Each one has one old strand and one new strand.
+
+Finishing Up: The DNA then twists back into its double-helix shape, and the cell is ready to divide, each new cell getting an exact copy of the DNA.
